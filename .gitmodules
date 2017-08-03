@@ -1,0 +1,3 @@
+[submodule "ebooklib"]
+	path = ebooklib
+	url = https://github.com/aerkalov/ebooklib.git
